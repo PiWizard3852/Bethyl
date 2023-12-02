@@ -1,0 +1,10 @@
+# Dependency directories
+node_modules
+
+# Build
+dist
+
+# Misc
+tmp
+.idea
+.DS_Store
